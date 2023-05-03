@@ -1,0 +1,5 @@
+修改host文件,使用文本打开，添加下列内容
+# localhost name resolution is handled within DNS itself.
+# 127.0.0.1 localhost
+# ::1 localhost20.205.243.166 github.com
+
